@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * A game of Battleship
+ * A game of Battleship qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
  *
  * @author Loc Tran, Brendan Williams
  * @version 11/17/17

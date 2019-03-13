@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * Write a description of class BattleshipMain here.
+ * A class designed to be able to use the battleship class.
  *
  * @author Loc Tran
  * @version 11/17/17
